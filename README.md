@@ -2,14 +2,13 @@
 
 ## Description
 
-The **Youtube Shorts Blocker** is a Chrome extension designed to prevent access to Youtube Shorts using the `chrome.declarativeNetRequest` API. This extension leverages rules specified in `rules_1.json` to block requests related to Youtube Shorts.
-
+The **Youtube Shorts Blocker** is a Chrome extension designed to prevent access to Youtube Shorts using the `chrome.declarativeNetRequest` API.  
 ![Youtube Shorts Blocker](images/s.png)
 
 ### Features
 
 - Blocks access to Youtube Shorts web pages.
-- Utilizes the `chrome.declarativeNetRequest` API to enforce blocking rules.
+ 
 
 ## Installation
 
